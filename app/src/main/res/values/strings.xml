@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="app_title">Etanol ou Gasolina</string>
+    <string name="ethanol_value_hint">Digite o Preço do Etanol, ex: 6.80</string>
+    <string name="gas_value_hint">Digite o Preço da Gasolina, ex: 6.80</string>
+    <string name="button_calculate_value">Calcular</string>
+</resources>
