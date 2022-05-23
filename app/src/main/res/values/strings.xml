@@ -8,4 +8,7 @@
     <string name="input_edit_text_gas_hint">Digite o valor da gasolina</string>
     <string name="better_option_ethanol">Melhor usar Ethanol</string>
     <string name="better_option_gas">Melhor usar gasolina</string>
+    <string name="alert_title">Digite o nome</string>
+    <string name="alert_negative_button">Sair</string>
+    <string name="alert_positive_button">Compartilhar</string>
 </resources>
